@@ -1,5 +1,5 @@
 # Ansible-Sample-Application-Deployment
-This repository will contain sample code to deploy the sample application on linux instance
+This repository will contain sample for creaing devops user and copy ssh keys to remote ec2 servers
 
 
 
